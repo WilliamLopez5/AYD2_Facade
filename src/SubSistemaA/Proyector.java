@@ -24,6 +24,4 @@ public class Proyector {
     public void ApagarProyeccion(){
         consola.setText(consola.getText()+"\nApagar Proyección de Imagen");
     }
-    
-    
 }

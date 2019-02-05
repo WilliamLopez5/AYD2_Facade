@@ -19,12 +19,7 @@ public class TeatroEnCasa {
     Proyector proyector;
     JTextArea consola;
     
-    public TeatroEnCasa(Audio audio,
-                        DVDPlayer dvdPlayer,
-                        CDPlayer cdPlayer,
-                        LucesTeatro lucesTeatro,
-                        Proyector proyector,
-                        JTextArea consola){
+    public TeatroEnCasa(Audio audio,DVDPlayer dvdPlayer,CDPlayer cdPlayer,LucesTeatro lucesTeatro,Proyector proyector,JTextArea consola){
 
         this.audio=audio;
         this.dvdPlayer=dvdPlayer;
