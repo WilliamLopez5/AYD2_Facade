@@ -15,7 +15,8 @@ public class AYD2_Facade {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        Ventana ventana=new Ventana();
+        ventana.setVisible(true);
     }
     
 }
